@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\Program Files\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\Debug\ac1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ac1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ac1.map</FILE>
+  <FILE>ac1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>33</LINE></setup>
+  <timer1_overflow><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>76</LINE></timer1_overflow>
+  <timer2_overflow><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>84</LINE></timer2_overflow>
+  <TIMER1_STR><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>30</LINE></TIMER1_STR>
+  <TIMER2_STR><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>31</LINE></TIMER2_STR>
+  <main><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>71</LINE></main>
+  <usart_send_string><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>94</LINE></usart_send_string>
+  <loop><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>98</LINE></loop>
+  <send_char><FILE>c:\users\admin\Documents\Atmel Studio\7.0\ac1\ac1\main.asm</FILE><LINE>105</LINE></send_char>
+ </LABELS>
+</ASSEMBLER_INFO>
